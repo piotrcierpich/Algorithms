@@ -52,6 +52,7 @@
     <Compile Include="Sorting\InsertionSort.cs" />
     <Compile Include="Sorting\ILinearSort.cs" />
     <Compile Include="Sorting\SelectionSort.cs" />
+    <Compile Include="Sorting\ShellSort.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
