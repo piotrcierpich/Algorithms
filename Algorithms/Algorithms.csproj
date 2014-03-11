@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Extensions.cs" />
+    <Compile Include="Sorting\HeapSort.cs" />
     <Compile Include="Sorting\Quicksort.cs" />
     <Compile Include="Sorting\IDivideAndConquerSort.cs" />
     <Compile Include="Sorting\MergeSort.cs" />

@@ -18,7 +18,8 @@ namespace Algorithms
       //new InsertionSort().Sort(set);
       //set = new MergeSort().Sort(set);
       //new Quicksort().SortInPlace(set);
-      new ShellSort().Sort(set);
+      //new ShellSort().Sort(set);
+      new HeapSort().Sort(set);
 
       EnsureAscending(set);
       Console.WriteLine("Sorted set: " + set.EnumerableToString());
